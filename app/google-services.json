@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684959793625",
+    "firebase_url": "https://krap-d612d.firebaseio.com",
+    "project_id": "krap-d612d",
+    "storage_bucket": "krap-d612d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684959793625:android:a27ece5bbbcb1150",
+        "android_client_info": {
+          "package_name": "com.example.krap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684959793625-bj5shlbchtv618nuok2l5en7295gmakq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krap",
+            "certificate_hash": "b60f6a2187922ea9ec1705504265ed62e5c2e655"
+          }
+        },
+        {
+          "client_id": "684959793625-ga1k263oheq8clhm9m17585ogf33i8fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoKRiVMDCeKtBy8_h6TZnuapRnJGkH8jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684959793625-ga1k263oheq8clhm9m17585ogf33i8fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
